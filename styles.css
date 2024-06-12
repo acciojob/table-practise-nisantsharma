@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+table {
+    width: 50%;
+    margin: 20px auto;
+    background-color: yellow;
+    border-collapse: collapse;
+}
+
+caption {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
